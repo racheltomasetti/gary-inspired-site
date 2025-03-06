@@ -21,7 +21,7 @@ export default function Home() {
             <div className="absolute -inset-2 rounded-lg bg-gradient-to-br from-stone-600 via-blue-600 to-pink-600 opacity-50 blur-2xl"></div>
             <div className="relative w-full h-64 border border-zinc-700 rounded-lg bg-zinc-900 text-slate-300 p-6 overflow-auto">
               <p className="text-center mb-3">
-                Hi, I'm Rachel and welcome to{" "}
+                Hi, my name is Rachel and welcome to{" "}
                 <strong>a glimpse into my mind</strong>...
               </p>
             </div>
