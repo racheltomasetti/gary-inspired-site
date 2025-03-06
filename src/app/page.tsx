@@ -1,7 +1,5 @@
 "use client";
-import React, { useState } from "react";
-import Image from "next/image";
-import GradientButton from "@/components/GradientButton";
+import React from "react";
 import SocialIconButton from "@/components/SocialIconButton";
 
 export default function Home() {
