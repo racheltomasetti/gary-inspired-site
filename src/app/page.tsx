@@ -104,8 +104,8 @@ const HelpModal = ({
             <section>
               <h3 className="text-lg font-medium mb-2 text-white">About Me</h3>
               <p className="text-zinc-300">
-                I'm Rachel, a creator focused on building tools that help people
-                connect with their authentic selves. My work spans the
+                I am Rachel, a creator focused on building tools that help
+                people connect with their authentic selves. My work spans the
                 intersection of technology, personal development, and creative
                 expression.
               </p>
@@ -143,11 +143,11 @@ const HelpModal = ({
 
             <section>
               <h3 className="text-lg font-medium mb-2 text-white">
-                What You'll Find Here
+                What You will Find Here
               </h3>
               <p className="text-zinc-300 mb-3">
                 This space serves as both a portfolio and a personal journal of
-                my creative process. You'll find:
+                my creative process. You will find:
               </p>
               <ul className="text-zinc-300 space-y-2">
                 <li className="flex items-start">
@@ -163,7 +163,8 @@ const HelpModal = ({
                 <li className="flex items-start">
                   <span className="text-pink-400 mr-2">•</span>
                   <span>
-                    Tools and frameworks I've created to help myself and others
+                    Tools and frameworks I have created to help myself and
+                    others
                   </span>
                 </li>
               </ul>
@@ -229,10 +230,10 @@ export default function Home() {
                   <div className="md:w-2/3 space-y-4">
                     {/* Bio Paragraph 1 */}
                     <p className="text-zinc-300">
-                      {/* Replace with your personal intro */}
-                      I'm a [your title/role] passionate about [your interests].
-                      With experience in [your field], I focus on creating tools
-                      and experiences that [your mission or goal].
+                      {/* Replace with your personal intro */}I am a [your
+                      title/role] passionate about [your interests]. With
+                      experience in [your field], I focus on creating tools and
+                      experiences that [your mission or goal].
                     </p>
 
                     {/* Bio Paragraph 2 */}
